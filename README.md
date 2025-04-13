@@ -1,4 +1,4 @@
-# LeetCode DSA Repository
+# LeetCode DSA Repository AND SQL SOlution
 
 ## Overview
 This repository contains solutions to various Data Structures and Algorithms (DSA) problems from LeetCode. The solutions are implemented efficiently and follow best coding practices.
@@ -10,6 +10,8 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 - **Binary Search Trees (BSTs)**: Implementation and traversal of BSTs.
 - **Recursion & Backtracking**: Solving problems using recursion and backtracking techniques.
 - **Mathematical Algorithms**: Implementations such as Taylor series using Horner’s rule.
+- **SQL Question**
+
 
 Happy Coding! 🚀
 
